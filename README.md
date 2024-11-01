@@ -1,5 +1,11 @@
-# The arcade cabinet
+# The capcom marvel super heroes arcade cabinet
 ![arcade_cabinet_edit](https://github.com/user-attachments/assets/b9724977-8186-4dc7-a9c9-66dc8503ef31)
+
+# Batocera usb drive setup
+This can be found on youtube. The arcade cabinet has a single usb input. Batocera can be loaded onto a usb as a bootable drive. Essentially when its plugged in the cabinet loads into batocera os.
+When its not plugged in, the arcade loads its oem games.
+
+Batocera is essentially an os that lets you select emulators. You can dl and place roms per emulator. We loaded in our fav arcade games and configured as laid out below for a very slick setup.
 
 ## Roms placement
 ```\userdata\roms\<emulator>\<romfile>```
